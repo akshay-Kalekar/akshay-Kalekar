@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Akshay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;%20|%20AI%20|%20App%20Enthusiast;UI/UX%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;%20|%20Blockchain%20|%20%20Enthusiast;UI/UX%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
 <h4 align="center">I am pursing B.Tech. in CSE.Personaly,I am very energetic person who loves to develope apps with special features that stand out.<h4>
@@ -25,9 +25,14 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
+  
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white">
   </a>
+  &emsp;
+	 <a href="https://www.python.org" target="_blank"> 
+    <img alt="Python" src="https://img.shields.io/badge/Python-%23007396.svg?logo=python&logoColor=white">
+    </a>
   &emsp;
 </p>
 
@@ -46,9 +51,9 @@
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
-&emsp;
-	<a href="https://reactjs.org/" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white"/>
+&emsp; 
+	 <a href="https://reactjs.org/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/React-%23563D7C.svg?style=flat&logo=react&logoColor=white"/>
   </a>
 &emsp; 	
 </p>
