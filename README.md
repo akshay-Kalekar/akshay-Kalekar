@@ -50,19 +50,19 @@
 	<a href="https://reactjs.org/" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white"/>
   </a>
-&emsp; 
-	
+&emsp; 	
 </p>
+	
 ### 👉 Backend Development
 
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=flat">
   </a> 
 &emsp; 
 	
@@ -72,7 +72,7 @@
 <p align="left">
   &emsp;  
    <a href="https://www.figma.com/" target="_blank"> 
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
   </a> 
   &emsp;
   <a href="#">
