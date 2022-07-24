@@ -102,7 +102,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/akshay-Kalekar"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MuggleHead&show_icons=true&locale=en&theme=algolia" alt="Akshay" height="192px"/></a>
+    <a href="https://github.com/akshay-Kalekar"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay-Kalekar&show_icons=true&locale=en&theme=algolia" alt="Akshay" height="192px"/></a>
 	</p>
 	<p  align="center">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-Kalekar&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Akshay" height="192px"/>
