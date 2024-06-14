@@ -3,7 +3,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;%20|%20Blockchain%20|%20%20Enthusiast;UI/UX%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
-<h4 align="center">I am pursing B.Tech. in CSE.Personaly,I am very energetic person who loves to develope Web- Apps ,participate in hackathons, talk about Web-D and planning to dive into blockchain .<h4>
+<h4 align="center">I am pursing B.Tech. in CSE. I am very energetic person who loves to develope Web-Apps ,participate in hackathons, talk about Web-D and planning to dive into blockchain .<h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshay-Kalekar&label=akshay-Kalekar's%20Profile%20Views%20&color=dc143c&style=plastic" alt="Akshayi" /> </p>
 
