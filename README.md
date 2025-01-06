@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Akshay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;%20|%20Blockchain%20|%20%20Enthusiast;UI/UX%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;FullStack+Developer;UI/UX%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
 <h4 align="center">I am pursing B.Tech. in CSE. I am very energetic person who loves to develope Web-Apps ,participate in hackathons, talk about Web-D and planning to dive into blockchain .<h4>
