@@ -7,8 +7,8 @@ ownership and solid backend fundamentals.
 
 ## 💡 About Me
 
-🎓 B.Tech in Computer Science Engineering from VIT Bhopal University\
-💼 Software Developer at Travel Lykke Pvt. Ltd.\
+🎓 B.Tech in Computer Science Engineering from VIT Bhopal University
+💼 Software Developer at Travel Lykke Pvt. Ltd.
 🚀 Building scalable B2B and consumer platforms using Next.js and Django
 REST Framework\
 🧠 Strong focus on system design, SSR performance, and clean
@@ -35,8 +35,8 @@ architecture\
 
 #### Admin Portal Development
 
--   Built internal admin portal to manage B2B authentication system\
--   Designed frontend level permission gateway and access control flows\
+-   Built internal admin portal to manage B2B authentication system
+-   Designed frontend level permission gateway and access control flows
 -   Ensured secure routing and role based access management
 
 ------------------------------------------------------------------------
@@ -46,17 +46,17 @@ architecture\
 #### Consumer Platform Revamp (Frontend -- Next.js)
 
 -   Contributed to full revamp of the consumer facing website using
-    Next.js 15\
+    Next.js 15
 -   Worked on design tokens, payment flows, API integrations, and end to
-    end testing\
--   Improved SSR performance and optimized bundle size\
+    end testing
+-   Improved SSR performance and optimized bundle size
 -   Built reusable atomic UI components
 
 #### Internship (Backend -- Django REST Framework)
 
--   Built and maintained REST APIs using Django REST Framework\
--   Strengthened backend fundamentals and API reliability\
--   Handled production hotfixes\
+-   Built and maintained REST APIs using Django REST Framework
+-   Strengthened backend fundamentals and API reliability
+-   Handled production hotfixes
 -   Learned scalable system design under mentorship from a senior
     engineer
 
@@ -73,17 +73,17 @@ Hydration reminder app focused on habit formation and emotional
 motivation.
 
 **What it does** - Smart notification reminders with quick Yes or No
-actions\
-- 14 day hydration tracking history\
-- Multiple tracking units including ml, oz, and gamified points\
-- Motivational mascot that reacts to your habits\
-- Dark and light mode support\
+actions
+- 14 day hydration tracking history
+- Multiple tracking units including ml, oz, and gamified points
+- Motivational mascot that reacts to your habits
+- Dark and light mode support
 - Quick add options like sip, half bottle, full bottle
 
-Play Store\
+Play Store
 https://play.google.com/store/apps/details?id=com.aksh2003.WaterTimeout
 
-Open Source\
+Open Source
 https://github.com/LearnGrowCode/Water-Timeout
 
 ------------------------------------------------------------------------
@@ -92,11 +92,11 @@ https://github.com/LearnGrowCode/Water-Timeout
 
 Simple and powerful money tracking app to manage lends and dues.
 
-**Core Features** - Separate Collect Book and Pay Book\
-- Track pending money with time duration visibility\
-- Offline first functionality with auto sync\
-- Clean and modern UI\
-- Analytics to view active vs completed lends\
+**Core Features** - Separate Collect Book and Pay Book
+- Track pending money with time duration visibility
+- Offline first functionality with auto sync
+- Clean and modern UI
+- Analytics to view active vs completed lends
 - Add, close, and manage entries easily
 
 Play Store\
@@ -111,7 +111,7 @@ https://github.com/LearnGrowCode/MOT_Frontend
 
 Maintaining projects under LearnGrowCode organization.
 
-Feel free to contribute:\
+Feel free to contribute:
 https://github.com/LearnGrowCode
 
 ------------------------------------------------------------------------
