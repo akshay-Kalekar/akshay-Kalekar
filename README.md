@@ -19,7 +19,7 @@ architecture\
 
 ## 💼 Professional Experience
 
-### 🧑‍💻 Software Developer \| Travel Lykke Pvt. Ltd. 
+### 🧑‍💻 Software Developer \| Travel LYKKE Private Limited.
 
 #### B2B Platform -- DMC Circle (Frontend Ownership)
 
@@ -41,7 +41,7 @@ architecture\
 
 ------------------------------------------------------------------------
 
-### 👨‍💻 Product Engineer Intern \| Travel Lykke Pvt. Ltd. 
+### 👨‍💻 Product Engineer Intern \| Travel LYKKE Private Limited.
 
 #### Consumer Platform Revamp (Frontend -- Next.js)
 
